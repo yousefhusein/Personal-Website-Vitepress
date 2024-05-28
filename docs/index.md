@@ -67,7 +67,7 @@ features:
   }
 }
 
-.VPImage {
+/* .VPImage {
   border-radius: 25%;
-}
+} */
 </style>
