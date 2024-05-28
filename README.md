@@ -1,3 +1,3 @@
-# Shadi AL-Hakimi - Personal Website
+# Simple Personal Website
 
 Powered by [vitepress](https://vitepress.dev/)
